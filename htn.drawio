@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T17:37:51.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="Ib4GMrUOVzAn41-GFohg" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T18:09:13.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TOpKgNVjHE03YHhuVKoo" version="22.1.18" type="github">
   <diagram name="Trang-1" id="hTASmMI9oH9z1JM17jVl">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pc7FVO2GkMAOkOHBljfV-1" target="pc7FVO2GkMAOkOHBljfV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pc7FVO2GkMAOkOHBljfV-1" target="pc7FVO2GkMAOkOHBljfV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-1" value="Đọc trạng thái nút bấm" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="pc7FVO2GkMAOkOHBljfV-2" target="pc7FVO2GkMAOkOHBljfV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-2" value="Chuyển đổi dữ liệu" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pc7FVO2GkMAOkOHBljfV-3" target="pc7FVO2GkMAOkOHBljfV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-3" value="Phát hiện trạng thái nút bấm" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pc7FVO2GkMAOkOHBljfV-6" target="pc7FVO2GkMAOkOHBljfV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-6" value="Chuẩn bị dữ liệu" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pc7FVO2GkMAOkOHBljfV-9" target="pc7FVO2GkMAOkOHBljfV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-9" value="Điều chế tín hiệu" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="930" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pc7FVO2GkMAOkOHBljfV-10" value="Phát tín hiệu" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
