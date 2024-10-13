@@ -156,6 +156,12 @@
         <mxCell id="HfvDbYC79r2rE23v4Ie9-37" value="Computing Serve" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=110;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2214" y="3540" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HfvDbYC79r2rE23v4Ie9-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=23;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="1" target="HfvDbYC79r2rE23v4Ie9-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-6500" y="2730" as="sourcePoint" />
+            <mxPoint x="-6880" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
