@@ -1,9 +1,353 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Trang-1" id="VYDXozYUX4tGOKDkSeNB">
-    <mxGraphModel>
+    <mxGraphModel dx="3007" dy="1742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-1" target="aLYRYOhqbakwwKRu4qIa-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-377" y="243" width="69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-10" target="aLYRYOhqbakwwKRu4qIa-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-13" value="Diff" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-12">
+          <mxGeometry x="0.1217" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-10" target="aLYRYOhqbakwwKRu4qIa-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497.0000000000002" y="378.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-15" value="Same" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-14">
+          <mxGeometry x="-0.0742" y="-3" relative="1" as="geometry">
+            <mxPoint x="2" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-10" value="Section?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="233" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-16" target="aLYRYOhqbakwwKRu4qIa-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-75" value="Diff" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-74">
+          <mxGeometry x="-0.2018" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-16" target="aLYRYOhqbakwwKRu4qIa-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-88" value="Same" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-87">
+          <mxGeometry x="0.0745" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-16" value="Compare files&amp;nbsp;&lt;div&gt;wants to push&amp;nbsp;&lt;div&gt;with file on Github&amp;nbsp;&lt;/div&gt;&lt;div&gt;which same name?&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="311" width="186" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-20" target="aLYRYOhqbakwwKRu4qIa-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-20" value="vcs command:&amp;nbsp;&lt;div&gt;vcs import &amp;lt; Viheco.repos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="243" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-22" target="aLYRYOhqbakwwKRu4qIa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-24" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-23">
+          <mxGeometry x="-0.1494" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-22" target="aLYRYOhqbakwwKRu4qIa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-89" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-27">
+          <mxGeometry x="-0.2495" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-22" value="Changes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="233" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-26" target="aLYRYOhqbakwwKRu4qIa-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-26" value="Open Git Bash on Change Folder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-28" target="aLYRYOhqbakwwKRu4qIa-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-28" value="git add ." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-30" target="aLYRYOhqbakwwKRu4qIa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-30" value="git commit -m &quot;Your comment&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="448" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-32" target="aLYRYOhqbakwwKRu4qIa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-32" value="git push" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="669" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-34" value="Verify on github" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-57" target="aLYRYOhqbakwwKRu4qIa-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-57" value="Create new folder: Release and Open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="706" y="339" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-59" target="aLYRYOhqbakwwKRu4qIa-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-59" value="git clone&amp;nbsp;https://github.com/rhuster-rpg/Viheco.git" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="911" y="339" width="278.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-61" target="aLYRYOhqbakwwKRu4qIa-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-61" value="Open Release/Viheco folder&lt;div&gt;and Open Git Bash&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="339" width="158.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-63" target="aLYRYOhqbakwwKRu4qIa-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-63" value="vcs import &amp;lt; Viheco.repos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="339" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-64" target="aLYRYOhqbakwwKRu4qIa-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-64" value="Copy diif file&lt;div&gt;from Local to Release&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1629" y="339" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-66" target="aLYRYOhqbakwwKRu4qIa-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-66" value="Open Git Bash on Change Folder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-68" target="aLYRYOhqbakwwKRu4qIa-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-68" value="git add ." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-70" target="aLYRYOhqbakwwKRu4qIa-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-70" value="git commit -m &quot;Your comment&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="833" y="134" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-72" target="aLYRYOhqbakwwKRu4qIa-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-72" value="git push" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-73" value="Verify on github" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-77" target="aLYRYOhqbakwwKRu4qIa-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-77" value="Open Git Bash on Change Release&#39;s Folder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1827" y="339" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-79" target="aLYRYOhqbakwwKRu4qIa-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-79" value="git add ." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1999" y="339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-81" target="aLYRYOhqbakwwKRu4qIa-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-81" value="git commit -m &quot;Your comment&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2193" y="339" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-83" target="aLYRYOhqbakwwKRu4qIa-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-83" value="git push" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2414" y="339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-84" value="Verify on github" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2585" y="339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-86" target="aLYRYOhqbakwwKRu4qIa-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-86" value="Create new folder: Release and Open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="711" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-91" target="aLYRYOhqbakwwKRu4qIa-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-91" value="git clone&amp;nbsp;https://github.com/rhuster-rpg/Viheco.git" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="885" y="239" width="278.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-93" target="aLYRYOhqbakwwKRu4qIa-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-93" value="Open Release/Viheco folder&lt;div&gt;and Open Git Bash&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1209" y="239" width="158.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-94" target="aLYRYOhqbakwwKRu4qIa-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-94" value="vcs import &amp;lt; Viheco.repos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1407" y="239" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-96" target="aLYRYOhqbakwwKRu4qIa-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-96" value="Manual Text Copying&amp;nbsp;&lt;div&gt;from Local to Release&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1601" y="239" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-99" target="aLYRYOhqbakwwKRu4qIa-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-99" value="Open Git Bash on Change Release&#39;s Folder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1776" y="239" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-101" target="aLYRYOhqbakwwKRu4qIa-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-101" value="git add ." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1948" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-103" target="aLYRYOhqbakwwKRu4qIa-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-103" value="git commit -m &quot;Your comment&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2142" y="239" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-105" target="aLYRYOhqbakwwKRu4qIa-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-105" value="git push" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2363" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-106" value="Verify on github" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2534" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-108" target="aLYRYOhqbakwwKRu4qIa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-111" value="Push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-110">
+          <mxGeometry x="-0.4311" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-108" target="aLYRYOhqbakwwKRu4qIa-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-201" y="91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-116" value="Pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-115">
+          <mxGeometry x="-0.4523" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-108" target="aLYRYOhqbakwwKRu4qIa-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-135" value="Release" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-134">
+          <mxGeometry x="-0.1638" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-108" value="Want to?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-241" y="233" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-113" target="aLYRYOhqbakwwKRu4qIa-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-113" value="vcs command:&amp;nbsp;&lt;div&gt;vcs import &amp;lt; Viheco.repos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="61" width="177" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-117" target="aLYRYOhqbakwwKRu4qIa-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-121" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-120">
+          <mxGeometry x="-0.2179" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-117" target="aLYRYOhqbakwwKRu4qIa-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-124" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLYRYOhqbakwwKRu4qIa-123">
+          <mxGeometry x="-0.0983" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-117" value="Changes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="51" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-119" value="Your version is up to date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="61" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-122" target="aLYRYOhqbakwwKRu4qIa-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-122" value="Open Diff Folder&amp;nbsp;&lt;div&gt;and Open Git Bash&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="-26" width="177" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-125" value="git pull" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-26" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-128" target="aLYRYOhqbakwwKRu4qIa-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-128" value="Create new folder: Release and Open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-261" y="532" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-130" target="aLYRYOhqbakwwKRu4qIa-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-130" value="git clone&amp;nbsp;https://github.com/rhuster-rpg/Viheco.git" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="532" width="278.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-132" target="aLYRYOhqbakwwKRu4qIa-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-132" value="Open Release/Viheco folder&lt;div&gt;and Open Git Bash&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="532" width="158.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLYRYOhqbakwwKRu4qIa-133" target="aLYRYOhqbakwwKRu4qIa-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-133" value="vcs import &amp;lt; Viheco.repos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="532" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLYRYOhqbakwwKRu4qIa-136" value="Build Product" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="621.5" y="532" width="155" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
